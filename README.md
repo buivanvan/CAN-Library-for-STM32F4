@@ -8,9 +8,9 @@ In this example, I send an array from 1 to 8 to id 0x123
 <img width="2234" height="139" alt="image" src="https://github.com/user-attachments/assets/c6ab1f0d-c146-4e4a-8461-4f4cf18f5e66" />
 
 ## How to use by KeilC
-Step 1: Download files can.c and can.h
+Step 1: Download the can.c and can.h files to your computer.
 
-Step 2: Copy can.c to User/Core/Src and can.h to User/Core/Inc
+Step 2: Copy can.c file to User/Core/Src and can.h file to User/Core/Inc
 
 Step 3: Add existing file to on KeilC and include library
 ```c
